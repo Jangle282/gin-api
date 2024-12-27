@@ -1,1 +1,7 @@
-package main
+/shelf/
+.idea/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+api.db
+.idea/*
